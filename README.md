@@ -70,25 +70,6 @@ npm install
 
 ---
 
-### Usage
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Access the app in your browser at `http://localhost:5173`.
-
-For production build:
-
-```bash
-npm run build
-npm run preview
-```
-
----
-
 ### Testing
 
 Run ESLint to ensure code quality:
