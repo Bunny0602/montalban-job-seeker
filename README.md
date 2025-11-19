@@ -1,4 +1,4 @@
-MONTALBAN-JOB-SEEKER
+# MONTALBAN-JOB-SEEKER
 
 *Empowering Careers Through Seamless Job Connections*
 
@@ -108,10 +108,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests. Ple
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-This is now **one complete Markdown block**, so you can copy it directly to your README without breaking it up.  
-
-If you want, I can also **add a “Screenshots / Demo” section with badges** to make it more visually appealing for GitHub. Do you want me to do that?
-```
